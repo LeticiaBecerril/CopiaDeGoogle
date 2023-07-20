@@ -1,9 +1,9 @@
 # Clonación de la interfaz de Google
 
 ## INDICE
-* [index](#)
-* [Que construi](#)
-* [Objetivo del proyecto](#)
+* [Intro](#)
+* [Qué construí](#)
+* [Objetivo del Proyecto](#)
 
 ****
 
